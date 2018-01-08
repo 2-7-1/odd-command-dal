@@ -1,2 +1,2 @@
-# odd-command-dal
-DAL API on S3 bucket of files.  
+# docker-container-test
+Test of how to docker-ize a Hello-World REST API and host on AWS ECS
